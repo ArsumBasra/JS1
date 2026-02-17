@@ -24,5 +24,5 @@ console.log(typeof undefined); // undefined
 // symbol => unique
 
 
-// object
+// object 
 
