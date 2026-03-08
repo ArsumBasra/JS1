@@ -15,6 +15,12 @@ console.log(undefined > 0);
 console.log(undefined == 0);
 console.log(undefined >= 0);
 
+// === stricky check//
+
+console.log("2" === 2);
+
+
+
 
 
 
